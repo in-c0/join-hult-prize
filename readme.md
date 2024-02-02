@@ -12,7 +12,7 @@
 - Be able to represent UNSW if we win the local competition round and attend the Semi-Finals (June 2024), Global Accelerator (July to August 2024), and Global Finals (September 2024)
 
 
-If this is you, join us by <b>14th Feb 2024</b>! Share the link with your friends if you think they're going to make a good candidate.
+If this is you, join us by <b>14th Feb 2024</b>!
 
 <b> [>>> Apply <<<](https://docs.google.com/join-hult-prize-with-us) </b>
 
@@ -63,3 +63,8 @@ If the application has closed but you would like to join us for some other event
 
 <br />
 <br />
+
+Share the website link or the below QR code if you think they're going to make a good candidate.
+
+![joinhultprizegithub](https://github.com/in-c0/join-hult-prize/assets/154449115/444fd354-3e80-49f5-ba67-631e7166683a)
+
