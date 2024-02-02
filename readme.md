@@ -58,7 +58,7 @@ Our startup idea aims to eliminate these challenges through an AI-leveraged plat
 
 
 
-If the application has closed but you would like to join us for some other events/challenges or just want to say hi, email us at avajiyo@gmail.com or z5343801@ad.unsw.edu.au
+If the application has closed but you would like to join us for some other events/challenges or just want to say hi, email us at wldud5192@gmail.com or DM on instagram (@avajiyo)
 
 
 <br />
