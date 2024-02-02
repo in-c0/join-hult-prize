@@ -12,7 +12,7 @@
 - Be able to represent UNSW if we win the local competition round and attend the Semi-Finals (June 2024), Global Accelerator (July to August 2024), and Global Finals (September 2024)
 
 
-If this is you, join us by <b>14th Feb 2024</b>! 
+If this is you, join us by <b>14th Feb 2024</b>! Share the link with your friends if you think they're going to make a good candidate.
 
 <b> [>>> Apply <<<](https://docs.google.com/join-hult-prize-with-us) </b>
 
@@ -34,7 +34,7 @@ Check out the links below for more information:
 
 ##  About Us
 
-We are a team of 2 engineering students (postgraduate) at UNSW. <br />
+We are a team of 2 engineering students (postgraduate) at UNSW: <br />
  <br />
 
 
