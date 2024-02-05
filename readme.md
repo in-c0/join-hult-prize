@@ -5,7 +5,7 @@
 - Be a current (under/post-grad) student or HDR candidate at the time of application (must all be UNSW students, except for one person who can be from a different university)
 - Has a passion for tech innovation and values aligned with [UN Sustainability Development Goals](https://www.un.org/sustainabledevelopment/sustainable-development-goals/).
 - Can participate in group pitch recording this weekend (10th/11th Feb 2024, depending on everyone's availability)
-- Can further commit to the project during the challenge period
+- Can further commit to the challenge, all the way to September (if we make it to the finals)
 - Be able to represent UNSW if we win the local competition round and proceed to the Semi-Finals (June 2024), Global Accelerator (July to August 2024), and Global Finals (September 2024)
 
 
