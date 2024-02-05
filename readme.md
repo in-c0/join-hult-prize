@@ -47,14 +47,14 @@ We currently have 4 candidates who are current postgraduate students at UNSW, st
 
 While the theme for Hult Prize 2024 is 'Unlimited', meaning any idea is welcome, it must create a measurable positive impact on people and the planet and support the United Nations in meeting its [Sustainability Development Goals](https://www.un.org/sustainabledevelopment/sustainable-development-goals/)  by the 2030 deadline.)
 
+Application involves submission of [3 min Pitch Slides PDF](https://drive.google.com/file/d/1daRtnngKt26blgUv2eX_A70nlM93w3S9/view), [Startup One Pager](https://s3.amazonaws.com/accelerator.app/2024+Startup+One-Pager+Template+%282%29_9bCmUOpLEC_iqUSa3IwZO.pdf), and a 3-4 min pitch video uploaded on Youtube.
+
+
 0. Registered team members will be put into a Discord group by 9th Feb 2024.
 1. Freely chip in your idea (if you have one) asynchronously by <b>end of 10th Feb 2024</b> using this link: <b> [Project Ideas](https://www.figma.com/file/3a2EGEaoHWFQjuh5F08la1/Hult-Prize-idea-brainstorming---What-Startup-Idea-do-you-have-in-mind%3F?type=whiteboard&node-id=0%3A1&t=9pK9XM8tkT6urd4T-1) </b>
 2. We will decide as a team on which project idea should be used. Voting ends on <b>end of 10th Feb 2024</b>
 3. We will prepare a group pitch of our chosen idea (4 min) on <b>10th Feb 2024</b>
 4. We will film ourselves doing a 4-minute pitch, upload it on YouTube, and fill out the application form on  <b>11th Feb 2024</b>
-Application involves submission of [3 min Pitch Slides PDF](https://drive.google.com/file/d/1daRtnngKt26blgUv2eX_A70nlM93w3S9/view), [Startup One Pager](https://s3.amazonaws.com/accelerator.app/2024+Startup+One-Pager+Template+%282%29_9bCmUOpLEC_iqUSa3IwZO.pdf), and a 3-4 min pitch video uploaded on Youtube.
-
-
 5. The application result will be finalized and accepted by 23 February 2024. Once accepted, we will schedule a rehearsal of the Finals Pitch Night.
    (The Finals Pitch Night is the first phase of the Hult Prize Competition and it will be delivered in person / on campus at the Michael Crouch Innovation Centre on Thu 29th February 2024)
 6. The winner will go on to represent UNSW at the Semifinals Summits.
