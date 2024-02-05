@@ -12,7 +12,7 @@
 If this is you, join us by <b>9th Feb 2024</b>!
 (Any background or degree is welcome!)
 
-<b> [>>> Apply to Join Our Team (Current UNSW Students) <<<](https://docs.google.com/join-hult-prize-with-us) </b>
+<b> [>>> Apply to Join Our Team (Current UNSW Students) <<<](https://forms.gle/kgirFkt7yZpDNniRA) </b>
 
 ( Check your eligibility at https://unswfounders.com/hult-prize )
 
