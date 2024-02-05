@@ -61,7 +61,7 @@ While the theme for Hult Prize 2024 is 'Unlimited', meaning any idea is welcome,
  <br />
 
 
-Any questions, or if the application has closed but you would like to join us for some other events/challenges or just want to say hi, DM me on Instagram (@avajiyo) or Discord (#in.c.0) 
+Any questions, or if the application has closed but you would like to join us for some other events/challenges or just want to say hi, DM me on Instagram (@avajiyo)
 
 
 <br />
