@@ -43,7 +43,7 @@ We are currently a team of 4 IT/engineering students (postgraduate) at UNSW.
 ###  Project Idea
 
 
-While the theme for Hult Prize 2024 is 'Unlimited', meaning any idea is welcome, it should be aligned with at least one of [UN Sustainability Development Goals](https://www.un.org/sustainabledevelopment/sustainable-development-goals/)
+While the theme for Hult Prize 2024 is 'Unlimited', meaning any idea is welcome, it must create a measurable positive impact on people and the planet and support the United Nations in meeting its [Sustainability Development Goals](https://www.un.org/sustainabledevelopment/sustainable-development-goals/)  by the 2030 deadline.)
 
 1. Chip in your idea (if you have one) asynchronously by <b>end of 12th Feb 2024</b> using this link: <b> [Project Ideas](https://www.figma.com/file/3a2EGEaoHWFQjuh5F08la1/Hult-Prize-idea-brainstorming---What-Startup-Idea-do-you-have-in-mind%3F?type=whiteboard&node-id=0%3A1&t=9pK9XM8tkT6urd4T-1) </b>
 2. We will decide as a team on which project idea should be used. Voting ends on <b>end of 13th Feb 2024</b>
